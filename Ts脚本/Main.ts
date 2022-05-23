@@ -1,4 +1,5 @@
 const UnitMap = new Map<string, any>()
+//正在演示GIT更新视频，这是一条测试注释
 //商店
 import * as 武器店 from "./功能脚本组/商店/武器店"
 import * as 项链店 from "./功能脚本组/商店/项链店"
