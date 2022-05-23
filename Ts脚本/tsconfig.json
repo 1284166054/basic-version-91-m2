@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module":"CommonJS",
+    "outDir": "../Mir200/Script",
+    "experimentalDecorators": false,
+    "sourceMap": true,
+    "declaration": false,
+    "lib": [
+      "es6",
+      "dom",
+      "es2015.promise"
+    ],
+    "types": [],
+    "noImplicitReturns":true,
+    "noFallthroughCasesInSwitch":true,
+  },
+  "include": [
+    "**/*.ts",
+    "JONE.d.ts"
+  ]
+}

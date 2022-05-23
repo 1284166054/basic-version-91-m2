@@ -1,0 +1,42 @@
+<TCustomGateWayConfig>
+	<Title>江山如画</Title>
+	<NetPassWord/>
+	<ServerAddr>127.0.0.1</ServerAddr>
+	<ServerPort>5000</ServerPort>
+	<GateAddr>0.0.0.0</GateAddr>
+	<GatePort>7000</GatePort>
+	<MaxConnOfIPaddr>10</MaxConnOfIPaddr>
+	<BlockMethod>mDisconnect</BlockMethod>
+	<MaxClientPacketSize>7000</MaxClientPacketSize>
+	<NomClientPacketSize>200</NomClientPacketSize>
+	<MaxClientMsgCount>20</MaxClientMsgCount>
+	<KickOverPacketSize>True</KickOverPacketSize>
+	<CheckServerTimeOutTime>180000</CheckServerTimeOutTime>
+	<ClientSendBlockSize>2000</ClientSendBlockSize>
+	<ClientTimeOut>5000</ClientTimeOut>
+	<SayMsgMaxLen>70</SayMsgMaxLen>
+	<SayMsgTime>1000</SayMsgTime>
+	<ClearTempList>True</ClearTempList>
+	<ClearTempBlockListTime>12000</ClearTempBlockListTime>
+	<EnableThreads>False</EnableThreads>
+	<CheckThreads>4</CheckThreads>
+	<WorkThreads>12</WorkThreads>
+	<PacketWarningSize>32767</PacketWarningSize>
+	<StartWalkCheck>False</StartWalkCheck>
+	<StartHitCheck>False</StartHitCheck>
+	<StartRunCheck>False</StartRunCheck>
+	<StartSpellCheck>False</StartSpellCheck>
+	<StartWarning>False</StartWarning>
+	<IncErrorCount>5</IncErrorCount>
+	<DecErrorCount>1</DecErrorCount>
+	<ErrMsg>[提示]: 请爱护游戏环境，关闭加速外挂重新登陆</ErrMsg>
+	<Minimize>True</Minimize>
+	<ConnectionATKSec>0</ConnectionATKSec>
+	<ConnectionATKCount>0</ConnectionATKCount>
+	<IOCPThreadCount>0</IOCPThreadCount>
+	<LoginSrvAddr>127.0.0.1</LoginSrvAddr>
+	<LoginSrvPort>5500</LoginSrvPort>
+	<DBSrvAddr>127.0.0.1</DBSrvAddr>
+	<DBSrvPort>5100</DBSrvPort>
+	<WokerCount>4</WokerCount>
+</TCustomGateWayConfig>

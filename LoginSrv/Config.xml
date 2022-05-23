@@ -1,0 +1,29 @@
+<TCustomLoginSrvConfigure>
+	<NetPassWord/>
+	<Title>江山如画</Title>
+	<DBProvider>MySQL</DBProvider>
+	<DBServer>localhost</DBServer>
+	<DBDataBase>mir_account</DBDataBase>
+	<DBUserName>root</DBUserName>
+	<DBPassword>5EISskQw3ihVcBs/+wqF9A==</DBPassword>
+	<DBPort>3306</DBPort>
+	<GateAddr>0.0.0.0</GateAddr>
+	<GatePort>5500</GatePort>
+	<ServerAddr>127.0.0.1</ServerAddr>
+	<ServerPort>5600</ServerPort>
+	<FeedIDList>.\FeedIDList.txt</FeedIDList>
+	<FeedIPList>.\FeedIPList.txt</FeedIPList>
+	<CountLogDir>.\CountLog\</CountLogDir>
+	<ChrLogDir>.\ChrLog\</ChrLogDir>
+	<ReadyServers>0</ReadyServers>
+	<EnableMakingID>True</EnableMakingID>
+	<EnableGetbackPassword>True</EnableGetbackPassword>
+	<AutoClearID>True</AutoClearID>
+	<AutoClearTime>1000</AutoClearTime>
+	<UnLockAccount>False</UnLockAccount>
+	<UnLockAccountTime>10</UnLockAccountTime>
+	<DynamicIPMode>False</DynamicIPMode>
+	<Minimize>True</Minimize>
+	<TestServer>False</TestServer>
+	<ShowDetailMsg>False</ShowDetailMsg>
+</TCustomLoginSrvConfigure>

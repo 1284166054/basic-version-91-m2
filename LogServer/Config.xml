@@ -1,0 +1,16 @@
+<TCustomLogSrvConfigure>
+	<ServerAddr>127.0.0.1</ServerAddr>
+	<ServerPort>10000</ServerPort>
+	<HttpServerAddr>0.0.0.0</HttpServerAddr>
+	<HttpServerPort>10001</HttpServerPort>
+	<UseHttp>False</UseHttp>
+	<Password/>
+	<DBProvider>SQLite</DBProvider>
+	<DBServer/>
+	<DBDataBase>.\Log.db</DBDataBase>
+	<DBUserName/>
+	<DBPassword/>
+	<DBPort>0</DBPort>
+	<LogTable>Log</LogTable>
+	<Minimize>True</Minimize>
+</TCustomLogSrvConfigure>
